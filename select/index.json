@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Orbit",
+  "base_artist": "クリストファー",
+  "createdAt": "2026-03-13T19:49:22.777172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hyperreal (Orbit Edit)",
+      "artist": "The Shamen",
+      "has_synced": false,
+      "path": "select/01_Hyperreal_(Orbit_Edit)_The_Shamen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hyperreal Orbit",
+      "artist": "The Shamen",
+      "has_synced": false,
+      "path": "select/02_Hyperreal_Orbit_The_Shamen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Silent Treatment - William Orbit Mix",
+      "artist": "The Joy Formidable",
+      "has_synced": true,
+      "path": "select/03_Silent_Treatment_-_William_Orbit_Mix_The_Joy_Formidable.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deatony (feat. Korbin in Orbit)",
+      "artist": "Deaton Chris Anthony feat. Korbin In Orbit",
+      "has_synced": true,
+      "path": "select/04_Deatony_(feat._Korbin_in_Orbit)_Deaton_Chris_Anthony_feat._Korbin_In_Orbit.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deatony (feat. Korbin in Orbit)",
+      "artist": "Deaton Chris Anthony",
+      "has_synced": true,
+      "path": "select/05_Deatony_(feat._Korbin_in_Orbit)_Deaton_Chris_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Late Night Lovin' (feat. Omar Apollo, Jean Dawson & Korbin In Orbit)",
+      "artist": "Deaton Chris Anthony feat. Omar Apollo, Jean Dawson & Korbin In Orbit",
+      "has_synced": true,
+      "path": "select/06_Late_Night_Lovin'_(feat._Omar_Apollo,_Jean_Dawson_&_Korbin_In_Orbit)_Deaton_Chris_Anthony_feat._Omar_Apollo,_Jean_Dawson_&_Korbin_In_Orbit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Late Night Lovin' (feat. Omar Apollo, Jean Dawson & Korbin in Orbit)",
+      "artist": "Deaton Chris Anthony",
+      "has_synced": true,
+      "path": "select/07_Late_Night_Lovin'_(feat._Omar_Apollo,_Jean_Dawson_&_Korbin_in_Orbit)_Deaton_Chris_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Electrical Storm (William Orbit Mix)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/08_Electrical_Storm_(William_Orbit_Mix)_U2.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In Orbit",
+      "artist": "Voivod",
+      "has_synced": false,
+      "path": "select/09_In_Orbit_Voivod.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Stranger (William Orbit Radio Edit)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Stranger_(William_Orbit_Radio_Edit)_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Orbit",
+      "artist": "Christopher",
+      "has_synced": false,
+      "path": "select/pl_01_Orbit_Christopher.txt"
+    }
+  ]
+}
